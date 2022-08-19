@@ -1,0 +1,16 @@
+.hello{
+    color:white;
+    margin-left: 8vw;
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: lighter;
+}
+
+.len{
+    color: beige;
+    margin-left: 8vw;
+    padding: 0px;
+    padding-top: 0.5rem;
+    opacity: 0.5;
+    font-weight: lighter;
+}
